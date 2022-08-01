@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@400;700&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #f0f0f0!important;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+ul li a {
+    color: #000!important;
+    font-size: 20px;
+}
+
+ul li a:hover {
+    color: aquamarine!important;
+}
+
+#boton-carrito {
+    color: black;
+    transition: all .3s;
+    background: black;
+    color: whitesmoke;
+}
+
+#boton-carrito:hover {
+    cursor: pointer;
+    color: royalblue;
+}
+
+#boton-carrito:focus {
+    outline: none;
+}
+
+#contenedor-productos {
+    max-width: 1200px;
+    margin: 60px auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.producto {
+    width: 16rem;
+    height: auto;
+    margin: 3px;
+    background: whitesmoke;
+    font-family: italic;
+}
+
+img:hover {
+    height: auto;
+    border: solid 1px;
+}
+
+.precioProducto {
+    font-weight: 900;
+    font-size: 25px;
+}
+
+.boton-agregar {
+    background: black!important;
+    color: white;
+    font-size: 18px;
+    width: 100%;
+}
+
+.boton-agregar:hover {
+    cursor: pointer;
+    background: rgb(15, 176, 235)!important;
+}
+
+.boton-agregar:focus {
+    outline: none;
+}
+
+.modal-contenedor {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all .5s;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.modal-active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.modal-carrito {
+    position: relative;
+    background-color: white;
+    min-width: 500px;
+    padding: 20px;
+    margin-top: -100%;
+    transition: all .5s;
+}
+
+.modal-active .modal-carrito {
+    margin-top: 0;
+}
+
+.modal-carrito h3 {
+    color: black;
+    padding-bottom: 5px;
+}
+
+.modal-carrito #carritoCerrar {
+    position: absolute;
+    top: 15px;
+    right: 25px;
+    font-size: 20px;
+    color: black;
+    border: none;
+    background-color: white;
+}
+
+.modal-carrito #carritoCerrar:hover {
+    cursor: pointer;
+}
+
+.modal-carrito #carritoCerrar:focus {
+    outline: none;
+}
+
+.modal-carrito .precioProducto {
+    padding-top: 10px;
+}
+
+.productoEnCarrito {
+    border-left: 5px solid rgb(216, 125, 125);
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 3px;
+    margin: 5px 0;
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.productoEnCarrito:hover {
+    border-left: 5px solid blue;
+}
+
+.boton-eliminar {
+    color: black;
+    border: none;
+    background: white;
+}
+
+.boton-eliminar:hover {
+    cursor: pointer;
+}
+
+.boton-eliminar:focus {
+    outline: none;
+}
+
+.copyright-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid white;
+}
+
+.copyright {
+    font-size: 12px;
+    opacity: 0.7;
+    font-weight: 400;
+    padding: 10px 0;
+    color: white;
+}
+
+#listWhats {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+#listWhats a i {
+    padding: 5px !important;
+    font-size: 2rem;
+}
+
+#listFooter a i {
+    padding: 5px;
+    font-size: 2rem;
+}
+
+#listFooter a :hover {
+    color: aquamarine;
+}

@@ -1,0 +1,181 @@
+[{
+        "id": 1,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 17,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "Buzo 1",
+        "tipo": "buzo",
+        "cantidad": 1,
+        "desc": "Un buzo que re va con vos",
+        "precio": 1200,
+        "img": "./img/buzo.jpg"
+    }
+]
